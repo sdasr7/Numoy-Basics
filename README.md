@@ -1,1 +1,1 @@
-# Numoy-Basics
+# Numpy-Basics
